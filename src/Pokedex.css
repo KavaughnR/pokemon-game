@@ -1,3 +1,7 @@
+.Pokedex {
+    text-align: center;
+}
+
 .Pokedex-cards {
     display: flex;
     justify-content: space-evenly;
@@ -7,4 +11,12 @@
 h1 {
     display: flex;
     justify-content: center;
+}
+
+.Pokechamp {
+    color:#00fa4f
+}
+
+.Pokekarp {
+    color:#c92d22
 }
